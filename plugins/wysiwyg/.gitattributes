@@ -101,3 +101,5 @@ AUTHORS text
 *.woff binary
 *.pyc binary
 *.pdf binary
+
+!ckeditor5-custom/*
